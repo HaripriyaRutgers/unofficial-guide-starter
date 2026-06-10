@@ -1,0 +1,125 @@
+When most people consider possible career paths in tech, they automatically think of paths such as frontend development, backend development, UI/UX design, product management, and so on. Rarely, does anyone ever think of technical writing.
+Yet, according to Glassdoor, technical writing is a very lucrative career path, with an average pay range of $45k to $105k. As a matter of fact, the employment of technical writers is expected to rise at a 
+rate of 12%
+ between 2020 and 2030 — higher than the average for all occupations.
+Following a 
+tweet
+ I posted on how to make money as a freelance technical content writer, numerous people messaged me to ask questions like: "what is technical writing?", "how can I become a technical writer?", "what do I need to know to become a technical writer?" and "how can I get a job as a technical writer?".
+After much procrastination, I decided to write this article to answer some of those questions. In this article, you will learn:
+What is technical writing?
+Who is a technical writer?
+What skills do you need to become a technical writer?
+Technical writing courses (free & paid)
+How to build a technical writing portfolio
+Possible technical writing career paths
+List of technical writing communities and job boards
+What is technical writing?
+Technical writing is any form of writing directed at a specific audience that explains complex technical concepts in simple terms. 
+While technical writing applies to various industries, this article's focus is on what technical writing entails specifically in the software development ecosystem.
+In the context of software development, technical writing is a type of writing that explains how a software product, concept, technology, or process works. It could be in the form of API documentation, tutorials, how-to guides, or conceptual guides.
+If you want to work in tech but don't want to write code full-time and enjoy creating written content to educate others, technical writing could be a good career path for you.
+Who is a technical writer?
+A technical writer serves as a link between a piece of software and the people who will use it. As a technical writer, your work will revolve around creating content for two audience categories: internal users and external users. Depending on your job description, you may be creating content for one or both of these audiences.
+Internal users are developers within an organization. Every software development team has APIs, systems, tools or processes that they make use of to build stuff. As a technical writer, your job may be to create internal documentation and wikis that will serve as a knowledge base for how these APIs, systems, and processes work.
+External users are people who make use of an organization's software service or product. These users may sometimes be developers from other organizations. As a technical writer, your job may be to create external documentation, how-to guides, FAQs, tutorials or concept articles, that introduce these users to what your organization's product or service is all about and how it works.
+What skills do you need to become a technical writer?
+In my opinion, to be an excellent technical writer, you need to have three core skills:
+Good writing skills
+Quite obvious for a technical "writer" role, yeah? As a technical writer, you should be able to string words together to produce meaningful, concise content that adequately communicates the topic or subject at hand.
+Luckily, even if you weren't born a writer, writing can be learned and developed. You can improve your writing skills by taking a course on writing, practising, and reading what has been done by others to develop your vocabulary and creativity.
+Fast learning and research abilities
+As a technical writer, you'll often be required to write about topics you have no prior experience with. As a result, you should be able to carry out research when necessary to fully comprehend a subject and still write about it concisely, within a stipulated amount of time.
+Software development knowledge
+There is no "traditional" academic work required to become a technical writer. However, knowledge or experience writing code in any niche (frontend, backend, or mobile) or language (JavaScript, PHP, Python, Ruby, et cetera) will give you an advantage.
+Most people like to argue that this is not important, but I disagree. As a technical writer, you'll often be required to create content that clarifies how a programming concept or a piece of code works. Even if you'll be working with a different set of languages, tools, or technologies than what you're used to, some experience of how one programming language or one tooling works, will help you learn another faster.
+Also, since your primary audience will most likely be developers, having some software development knowledge will help you be more familiar with developer speak, and be better positioned to communicate with them.
+So, consider taking an introduction to computer science/programming course.
+In summary, as a technical writer, you need to be able to write clearly, interpret code, and learn about tricky technical concepts through a combination of independent research and asking questions.
+For further proof, here's what a typical technical writer job requirement from 
+Flutterwave
+ looks like:
+Recommend technical writing courses (free and paid)
+As a newbie, I'd recommend taking an introductory course on technical writing to help you gain the guided knowledge you'll need to kick-start your journey.
+Here are some courses you can check out:
+Technical writing course by TechnicalWriterHQ
+ (paid)
+Fundamentals of Technical Writing by Ed2go
+ (paid)
+Technical writing course by Google
+ (free)
+Writing for Software developers
+ (paid)
+Open technical communication course
+ (free)
+Technical writing: Documentation on software projects by Pluralsight
+ (paid)
+Also, if you have no software development experience, then you should consider taking an introduction to programming course. Here are some: 
+Udacity Introduction to Programming
+ (paid)
+Edx Introduction to Computer Science
+ (free)
+How to build a technical writing portfolio
+When applying for a technical writer role (or any of the other related roles above), you'll most likely be asked to provide links to your writing samples or technical writing portfolio.
+A technical writing portfolio is a document that contains a list of all of your technical writing samples. Its purpose is to demonstrate to prospective employers or interviewers that you are capable of and have experience writing about technical topics or concepts.
+As a newbie, having one document that links to all your stellar public technical writing samples that you can show prospective employers will always tip the scale in your favour. It certainly has for me severally. I have articles published on my 
+personal site
+, 
+Logrocket
+, 
+CSS Tricks
+, 
+freeCodeCamp
+, 
+Bitmovin
+, 
+StatusHero
+, 
+Backhub
+, 
+FingerPrintJS
+, and a host of other sites.
+You can start by creating articles about software development related concepts from whatever introduction to computer science/programming course you decide to take. Then publish these articles either on your own blog or on developer-focused blogging platforms like 
+dev.to
+, 
+hashnode
+, or 
+hackernoon
+.
+If you're more interested in documentation, you can get some documentation experience by contributing to documentation for open-source projects. Here's a 
+list
+ of open-source projects with documentation opportunities to start from, and a 
+guide
+ on how to contribute to open-source projects. You can also get documentation experience through programs like 
+Google season of Docs 
+or 
+Outreachy Internships
+.
+Possible technical writing career paths
+Asides from the explicit job title of "Technical Writer", strong technical writing skills can also help you land roles like:
+Developer educator/ Developer advocate
+: These people are usually tasked with creating documentation, tutorials featuring sample code examples and sample repositories, blog content, and sometimes video content to ensure that users have all the information they need to succeed with a product.
+Technical Documentation Officer
+: These people are solely focused on creating documentation. This could either be internal facing documentation or external-facing documentation.
+Technical Content Writer/ Developer Marketer
+: These people typically work with the marketing team of an organization to create articles aimed at stimulating interest in its software products or services within a target audience.
+You can also work as a freelance technical writer for some organizational community blogs, or technical content marketing agencies like the ones on 
+this list
+.
+List of technical writing communities and job boards
+The importance of communities cannot be overemphasized. Being a member of a community of like-minded people will help you grow, expand your network, and be introduced to different opportunities.
+So, as my final act, here is a list of technical writing communities that you can join:
+Technical Writers United 
+(a Facebook group)
+Write the docs
+ (Slack channel)
+Technical Writing Community
+ (group on LinkedIn)
+Also, here are some job boards where you can find job listings for technical writer roles and other related roles :
+Write the Docs Job Board
+TechnicalWriterHQ Job Board
+Flexjobs
+Ziprecruiter
+DevRel Jobs
+Startup Jobs
+Take a leap into technical writing
+In this article, I've discussed the most important points you need to know about technical writing and what it takes to become a technical writer. If you want to delve into the word of technical writing, the first thing I'd advise you to do is to take a course on technical writing. You can start with the courses that I listed above. All the best!

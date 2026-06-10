@@ -1,0 +1,759 @@
+Awesome Subreddits
+
+A curated list of awesome programming subreddits.
+
+Table of Contents
+
+Back End Developmnt
+
+CakePHP
+
+Django
+
+Docker
+
+Flask
+
+Laravel
+
+nginx
+
+Rails
+
+Symfony
+
+Vagrant
+
+Browser
+
+Command Line
+
+Computer Science
+
+Databases
+
+Editors
+
+Entertainment
+
+Front End Developmnt
+
+Programming
+
+Programming Languages
+
+.NET
+
+AutoHotkey
+
+C++
+
+C-sharp
+
+C
+
+Clojure
+
+Dart
+
+Elixir
+
+Erlang
+
+Go
+
+Groovy
+
+Haskell
+
+Java
+
+JavaScript
+
+Julia
+
+Kotlin
+
+LaTeX
+
+Lua
+
+Perl
+
+PHP
+
+Python
+
+Ruby
+
+Rust
+
+Scala
+
+Swift
+
+V
+
+Zig
+
+Platforms
+
+Amazon Web Services
+
+Android
+
+Firebase
+
+Heroku
+
+iOS
+
+IoT
+
+Linux
+
+Node.js
+
+OS X
+
+watchOS
+
+Windows
+
+Miscellaneous
+
+Mobile Development
+
+Contribute
+
+Back End Development
+
+CakePHP
+
+cakephp
+
+Django
+
+django
+ - News and links for Django developers.
+
+djangolearning
+ - For learning Django.
+
+Docker
+
+docker
+
+Flask
+
+flask
+
+Laravel
+
+laravel
+
+learnlaravel
+ - For Laravel tutorials and resources.
+
+nginx
+
+nginx
+
+Rails
+
+learn_rails
+ - Dedicated to anybody who wants to study Ruby on Rails.
+
+learnrubyonrails
+ - A subreddit to start your Ruby on Rails path.
+
+rails
+ - For discussion and news about Ruby on Rails development.
+
+rubyonrails
+ - For discussion and news about Ruby on Rails development.
+
+Symfony
+
+symfony
+
+Vagrant
+
+vagrant
+
+Browser
+
+chrome
+ - All about developments relating to the Google Chrome,Chromium web browsers, Chrome apps and extensions, ChromeOS, and Chromebooks.
+
+chrome_extensions
+ - Post your favorite Google Chrome extensions, extensions API news, and other related stuff.
+
+Firefox
+
+FireFoxAddons
+ - A listing of the best Firefox Addons.
+
+LibreWolf
+ - A place for everyone related with LibreWolf browser.
+
+browsers
+ - For posting news about browsers, browser technology and web standards.
+
+Brave
+ - A place for posting articles relating with Brave and Chromium web browsers, helping others.
+
+operabrowser
+ - Topics on the fastest web browser on earth and the Opera Mail (M2) mail client.
+
+safari
+ - Dedicated to news and discussion pertaining to Safari as well as its extensions and rumours of the future.
+
+Command Line
+
+bash
+ - A subreddit dedicated to bash scripting.
+
+commandline
+ - For anything regarding the command line, in any operating system.
+
+shell
+ - News, articles, tips and tools covering shell scripting and command-line interfaces of all flavors.
+
+zsh
+
+Computer Science
+
+Algorithms
+
+AskComputerScience
+ - Ask CompSci Questions And get answers.
+
+compsci
+ - Share and discuss content that computer scientists find interesting.
+
+cscareerquestions
+ - Discuss careers in Computer Science, Computer Engineering, Software Engineering, and related fields.
+
+cscareerquestionsEU
+ - A subreddit for CS workers in the European Continent.
+
+cseducation
+ - For computer science educators and education researchers.
+
+computerscience
+ - Dedicated to all things about Computer Science.
+
+AskCompSci
+
+Databases
+
+Database
+ - A knowledge sharing forum for databases.
+
+DatabaseHelp
+
+mariadb
+
+mongodb
+
+mysql
+
+PostgreSQL
+ - For PostgreSQL database enthusiasts.
+
+redis
+ - Redis community subreddit.
+
+RethinkDB
+
+SQLServer
+ - Microsoft SQL Server Administration and T-SQL Programming.
+
+Editors
+
+emacs
+
+neovim
+
+vim
+
+vscode
+ - Visual Studio Code.
+
+Entertainment
+
+EpochFail
+ - Subset of software gore specifically for Epoch Fails.
+
+itsaunixsystem
+ - For every over the top, satirical or incorrect usage of technology found in Movies, TV Shows etc.
+
+linuxmemes
+ - Self descriptive subreddit name.
+
+ProgrammerHumor
+ - Not everybody understands the humor of programmers.
+
+programmerreactions
+ - Expressing the life of programmers through reaction images.
+
+softwaregore
+ - A collection of things that users shouldn't see.
+
+Front End Development
+
+Angular2
+ - For news and discussion about Angular2.
+
+angularjs
+
+css
+ - A place on reddit to talk about CSS.
+
+csshelp
+ - For help with CSS and questions only.
+
+d3js
+ - For discussing d3.js. d3, short for Data Driven Documents.
+
+frontend
+ - Find or share the latest and greatest tips, links, thoughts, and discussions on the world of front web development.
+
+Gatsbyjs
+ - We learn, discuss, and share experience developing websites using GatsbyJS.
+
+html5
+ - [HTML5] evolves HTML and its related APIs to ease the authoring of Web-based applications.
+
+jquery
+ - News, articles, plugins and tutorials, covering jQuery Core, jQuery UI, jQuery Mobile etc.
+
+MaterialDesign
+ - For anything relating to Material Design.
+
+Meteor
+ - A reddit for discussion and news about Meteor.JS.
+
+reactjs
+ - A community for learning and developing web applications using React.
+
+UI_Design
+ - Topics related to UI design, mobile UI design, mobile app design etc.
+
+vuejs
+ - For news and discussion about Vue.js.
+
+web_design
+ - For exploration and discovery of all things web design, development and the life cycle of the web designer.
+
+Web_Development
+ - Web Development news, articles, and tools.
+
+webdev
+
+Programming
+
+dailyprogrammer
+
+learnprogramming
+
+reviewmycode
+ - A place where people can submit their code for review.
+
+coding
+ - A pure discussion of programming.
+
+programming
+ - For discussion and news on programming.
+
+Programming Languages
+
+.NET
+
+dotnet
+ - Everything about dotnet.
+
+AutoHotkey
+
+AutoHotkey
+ - For everything relating to AutoHotkey.
+
+C++
+
+cpp
+ - Discussions, articles, and news about programming in C++.
+
+cplusplus
+ - Post your C++ questions, news, work in progress, finished projects, and help here.
+
+C-sharp
+
+csharp
+ - All about the object-oriented programming language C#.
+
+C
+
+c_language
+ - Anything related to the C programming language.
+
+C_Programming
+
+Cprog
+ - For C programmers by C programmers.
+
+cprogramming
+ - A Reddit for all things C.
+
+Clojure
+
+Clojure
+
+Dart
+
+dartlang
+ - Place for all things related to the Dart programming language and its tools.
+
+Elixir
+
+elixir
+ - Dedicated to the Elixir programming language.
+
+Erlang
+
+erlang
+ - All things about erlang programming language.
+
+Go
+
+golang
+ - The Go programming language community.
+
+Groovy
+
+groovy
+ - All things Groovy
+
+Haskell
+
+haskell
+ - The Haskell programming language community.
+
+haskellquestions
+ - Dedicated to providing assistance for programming and solving problems in Haskell.
+
+haskelltil
+
+Java
+
+java
+ - News,technical discussions,research papers and assorted things of interest related to Java.
+
+learnjava
+ - Resources for learning Java.
+
+javahelp
+ - General subreddit for helping with Java code.
+
+JavaScript
+
+javascript
+ - All about the JavaScript programming language.
+
+LearnJavascript
+ - Place for people to learn JavaScript together.
+
+Kotlin
+
+Kotlin
+ - For everything related to using the Kotlin programming language.
+
+Julia
+
+Julia
+ - A place for discussing the Julia programming language.
+
+LaTeX
+
+LaTex
+ - Everything related to the LaTeX programming language.
+
+Lua
+
+lua
+ - For everything involving the Lua programming language.
+
+Perl
+
+perl
+ - For everything relating to Perl programming language.
+
+PHP
+
+php
+ - For the latest news in the PHP world.
+
+phphelp
+ - Post specific problems or questions you have about PHP.
+
+learnphp
+ - Place to learn PHP.
+
+Python
+
+Python
+ - News about the dynamic, interpreted, interactive, object-oriented, extensible programming language Python.
+
+learnpython
+
+pythoncoding
+ - For Python developers to share articles and discuss things relevant to Python.
+
+Ruby
+
+ruby
+ - For discussion and news about Ruby programming.
+
+learnruby
+ - For people just learning Ruby and for Ruby experts looking to share their wisdom.
+
+Rust
+
+rust
+ - A place for all things related to the Rust programming language.
+
+Scala
+
+hascalator
+ - For functional programming in Scala
+
+scala
+ - For everything relating to Scala.
+
+Swift
+
+swift
+ - Dedicated to the Swift programming language.
+
+V
+
+vlang
+ - A community dedicated to V programming language.
+
+Zig
+
+zig
+ - A place to discuss about the Zig programming language.
+
+Platforms
+
+Amazon Web Services
+
+aws
+ - News, articles and tools covering Amazon Web Services.
+
+Android
+
+Android
+
+androiddesign
+ - UI/UX discussions for Android OS and Android apps.
+
+androiddev
+ - News for Android developers with the who, what, where, when and how of the Android community.
+
+androidthemes
+
+Firebase
+
+Firebase
+
+Heroku
+
+Heroku
+
+iOS
+
+ios
+
+iOSBeta
+
+iOSProgramming
+ - Share articles, code samples, open source projects and anything relating to iOS.
+
+IoT
+
+internetofthings
+ - Following the term and technology of the IOT as it is defined and developed.
+
+IOT
+ - Staying on top of the emerging term and technology behind the Internet of Things.
+
+Linux
+
+linux
+
+linux4noobs
+ - Linux introductions, tips and tutorials.
+
+linuxquestions
+ - For any question pertaining to Linux from beginner to advanced.
+
+Microsoft Azure
+
+AZURE
+ - News and articles covering Microsoft Azure
+
+Node.js
+
+node
+ - News and links for node.js developers.
+
+npm
+
+OS X
+
+mac
+ - Reddit's community of Mac users, enthusiasts, and experts.
+
+macapps
+
+MacSetups
+ - Share your Mac setup.
+
+osx
+ - Reddit's community for users, developers, and hackers of OS X.
+
+osxterminal
+
+OSXTweaks
+
+watchOS
+
+applewatch
+ - Official subreddit of the Apple Watch.
+
+watchOSBeta
+
+Windows
+
+windows
+
+windows8
+ - A place for anything relevant to Microsoft's latest desktop/tablet OS, Windows 8.
+
+Windows10
+
+windowsinsiders
+ - A subreddit for specific discussion of Windows Insider Preview builds.
+
+Miscellaneous
+
+arduino
+ - A reddit for all things Arduino.
+
+artificial
+ - Artificial intelligence news, research and generally interesting links.
+
+AskNetsec
+ - A place to ask security related questions.
+
+computerforensics
+ - A community dedicated towards the branch of forensic science.
+
+computervision
+
+coolgithubprojects
+ - Sharing Github projects just got easier.
+
+crypto
+ - Intended for links and discussions surrounding the theory and practice cryptography.
+
+Crypto Subreddit Dashboard
+ - A Dashboard which tracks top daily cryptocurrency subreddits.
+
+dataisbeautiful
+ -
+A place for visual representations of data: Graphs, charts, maps, etc.
+
+datascience
+ - Place to discuss data, data science, becoming a data scientist, data munging, and more.
+
+datasets
+ - Datasets for Data Mining, Analytics and Knowledge Discovery.
+
+dotfiles
+ - Share the configuration files of your applications.
+
+embedded
+
+functionalprogramming
+
+git
+
+github
+
+hackernews
+ - A mirror of 
+Hacker News
+.
+
+LanguageTechnology
+ -
+Articles on natural language processing.
+
+machinelearning
+ - News, Research Papers, Videos, Lectures, Softwares and Discussions on Machine Learning.
+
+MLQuestions
+ - For all your Machine Learning questions.
+
+networking
+
+opensource
+ - A subreddit for everything open source related.
+
+ProgrammingLanguages
+ - Discussions of programming language creation and design.
+
+raspberry_pi
+ - For discussing the raspberry pi credit card sized, ARM powered computer etc.
+
+Regex
+ - Questions and help on all topics concerning regular expressions.
+
+softwaredevelopment
+ - Software development methodologies, techniques, and tools.
+
+tinycode
+ - A subreddit for minimalistic, often but not always simple implementations of just about everything.
+
+unixporn
+ - A collection of screenshots and links for aesthetics-oriented Unix tooling.
+
+WatchPeopleCode
+ - Live streams of various individual coding sessions.
+
+Mobile Development
+
+FlutterDev
+
+PhoneGap
+
+ReactNative
+
+XamarinDevelopers
+
+Contribute
+
+Contributions are most welcome, please adhere to the 
+contribution guidelines
+.
+
+Back to top
+
+License
+
+This work is licensed under a 
+Creative Commons Attribution 4.0 International License
+.

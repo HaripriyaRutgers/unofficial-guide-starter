@@ -1,0 +1,155 @@
+Hinterhaus Productions/Getty Images
+Computer science degrees prepare CS majors for a number of jobs and careers, both inside and outside of software development.
+As companies 
+clamor for people with programming skills
+, it’s no surprise that computer science has 
+become a popular major at many universities
+. But coding isn’t the only skill you develop when you study CS, and a computer science degree doesn’t necessarily mean you need to become a software engineer—though that path is well-travelled for a reason. 
+In my years as a career counselor working with CS students, one of the neatest things I got to see was all the different career paths students took with their computer science degrees. So regardless of whether you want to be programming all day or not, there is an incredible variety of great career options for you. 
+Top Skills Computer Science Majors Bring to the Job Market
+Employers across the board aren’t looking for 
+just
+ programming skills—even when they’re hiring for programming jobs. Computer science degree majors bring many useful skills to the job market. Here are some of the main ones: 
+Programming
+: This one is fairly self-explanatory. It’s pretty tough to graduate with a CS degree without taking some kind of coding 101 class. Even if you’re not an expert at, say, C++, it’s likely you’ll at least know some Python or another language and, hopefully, can pass a 
+technical interview
+. 
+Problem-solving
+: You may not realize it, but when you’re coding, you are constantly problem-solving. (Read: Looking up possible solutions to try on Github or Stack Overflow. Brainstorming, strategizing, and trying different options. Repeating until the code works.) In programming, there’s not usually one right answer, so the process of getting your code to work can involve getting pretty creative to solve the problem—a skill that you can apply to pretty much any job regardless of function or industry. 
+Teamwork
+: Just as you can’t get out of taking some sort of programming class as a CS major, you’re also not likely to be able to avoid participating in a group project at some point during your studies. Beyond working together on problem sets, you’ll likely take many classes that have major group projects in lieu of a final exam. So you’ll learn how to share the work with each team member based on their strengths and weaknesses to get the project all done. Few companies are truly run by a lone genius, so this will be a big plus in your professional life.
+Project management
+: Aside from learning how to work with others, these group projects also give you some great project and 
+time management skills
+. Getting some experience figuring out the scope of a project and setting appropriate milestones will serve you well when you’re in your first job, no matter the role.
+Communication
+: The beauty of finding clear comments in old confusing code is an experience many programmers have waxed poetic about. OK, that might be a stretch, but the practice of commenting on your code clearly and thoroughly can be a lifesaver for the next person working on it—especially if that person is future you—and improves your communication skills. You’ve also honed your communication skills through your group projects. I have a hard time thinking of even a single job where strong communication skills aren’t a huge plus. 
+So you major in CS and get all these great skills. Now what? Here are nine jobs that may be of interest along with average salary for each job—for all experience levels—according to the compensation resource PayScale (note that PayScale’s database is 
+updated nightly
+; the numbers below reflect the latest information as of April 2022). 
+Software Engineer
+Average salary
+:
+ $88,568
+
+If we’re being very literal, 
+software engineers and developers
+ write code. But that hardly covers all the actual day-to-day tasks that might be included in the role. In fact, to help manage some of the complexity of the job, software engineering is typically broken up into several different kinds of roles. Front-end developers work on the part of a program that interacts with users, while back-end developers work on the non-visual aspects of a program like data storage. Full-stack developers do a bit of everything. 
+
+If programming was what drew you to study computer science in the first place, then software engineering might be the job for you. Just prep for a programming test and start applying. No need for a graduate degree—though employers obviously wouldn’t hold it against you if you really wanted to get one. 
+
+Find 
+software engineer
+ and 
+software developer
+ roles on The Muse
+QA/Test Engineer
+Average salary
+:
+ $71,658
+
+QA (quality assurance), or test engineers, ensure that software actually does what the developers intended. Test engineers may write code to conduct tests or manually test actions a potential user might do in search of bugs to fix. They need similar programming skills as software engineers, but rather than writing new code for the product, their primary objective is to make sure the existing code is actually good—by actively trying to undermine it in order to resolve problems before a real user encounters them. QA engineers need to be detail-oriented and 
+organized
+. 
+
+If you’re the kind of person who likes breaking things to figure out how they work, this might be the role for you. It also doesn’t hurt if you’re someone who can think of debugging as a fun logic puzzle—there’s 
+a lot
+ of debugging in this role. As with software engineering roles, you don’t need a graduate degree. 
+
+Find 
+QA engineer
+ and 
+test engineer
+ jobs on The Muse
+UX Researcher
+Average salary
+:
+ $88,647
+
+A user experience (UX) researcher conducts research on—you guessed it—a user’s experience with the product they are working on. The ultimate goal of a 
+UX researcher
+’s work is to improve a product’s usability as it is being developed. They conduct tests to see if new features might make products easier or more enjoyable to use. Their work is closely related to UX designers, but more focused on conducting experiments and interviewing users through various methods to find out what they need and want. 
+
+Strong communication skills are a must-have given the frequent interactions with users. And a CS background can give you a foundation for understanding what product improvements are feasible. While a graduate degree isn’t mandatory, it’s not uncommon to get a master’s in human-computer interaction, communications, or similar, given the emphasis on research. If you want to work on cool products ranging from VR to medical devices and have a knack for product design but would rather work with people than code, this role might be for you.
+
+Find UX researcher jobs on The Muse
+Product Manager
+Average salary
+:
+ $100,446
+
+Product managers or PMs wear a lot of hats. They help shuttle a product (whether it’s a software-based service for other businesses or a gaming app for consumers) through the entire product life cycle—from conception to release or beyond. They make key product decisions, keep all relevant stakeholders on the same page, and hit set deadlines on the product roadmap (which is how PMs refer to their plans and timelines). PMs need to have the background knowledge to understand all the technical parts of the product and make sure all the right people are talking to—and understanding—each other.
+
+Beyond having a technical background, PMs typically need to have some management experience, but if you know this is the career path you want to pursue, you can apply for an associate product manager (APM) role right out of undergrad. APM jobs help you get the skills necessary to be a successful PM early in your career. 
+
+Search 
+product manager
+ and 
+associate product manager
+ jobs on The Muse
+Data Scientist
+Average salary
+:
+ $97,294
+
+Data scientists take gobs of data and help translate it into something useful—such as insight into how users view a particular product—by building systems that allow data to be collected, stored, analyzed, and used. At a high level, they leverage data to inform business decisions. The work sits at the intersection of CS, statistics, and math. Many data roles now require some coding, algorithms, and machine learning experience. 
+
+Most data scientists have graduate degrees. When the data science field was newer, some companies would hire people right out of undergrad, but that is increasingly rare now. Particularly if you’re looking at roles that require a knowledge of machine learning, at least a master’s degree may be necessary. 
+
+Find 
+data scientist
+, 
+machine learning
+, and other 
+data science
+ jobs on The Muse
+Web Developer
+Average salary
+:
+ $60,668
+
+Web developers build websites and keep them running. Like in software engineering, there’s front-end work to be done on the actual interface of a web page and back-end work like making sure the site can handle the amount of traffic it gets.
+
+Like all developer roles, programming is a big part of the job, but soft skills like strong communication are also important since much of the work is with outside clients who may not have a technical background. Web developer roles don’t require a graduate degree, but having some previous experience, even on your own personal projects, can be a big plus for landing a job. 
+
+Find web developer jobs on The Muse
+Cybersecurity Analyst
+Average salary
+:
+ $77,254
+
+Cybersecurity analysts, sometimes called information security analysts, plan and implement security measures for a company’s network and servers in order to keep its data safe. They work to prevent security breaches through ongoing monitoring, encryption efforts, and security assessments such as vulnerability testing and risk analysis. When security breaches do occur, they may analyze them to determine the root cause. 
+
+Cybersecurity analysts need to be analytical and detail-oriented to look for vulnerabilities and plan fixes. Aside from university coursework in network security and the like, you might also benefit from acquiring information security certifications—like the 
+Certified Information Systems Auditor
+ (CISA) and 
+CompTIA Cybersecurity Analyst
+ certifications—to further demonstrate your expertise.
+
+Find 
+cybersecurity analyst
+ and 
+information security analyst
+ jobs on The Muse
+IP Technology Specialist
+Average salary
+:
+ $115,962
+
+Instead of IT, why not IP? If you’ve always liked learning about the most cutting edge technologies, you may enjoy working in the field of intellectual property (IP), or more specifically, patent law. Before products make it out into the real world, inventors apply for patents to ensure competitors can’t copy their product for a set period of time. IP technology specialists serve as subject matter experts at law firms in areas like biotech or electrical and computer technologies and work with patent lawyers to write patent applications for their clients.
+
+Most “tech spec” roles, as they are sometimes called, require a PhD in a STEM field, but if your specialty is in computer science, the role may just require a bachelor’s or master’s degree. Most law firms with tech spec roles also pay for you to attend law school (typically in the evenings) so that you can work toward becoming a patent lawyer. Going into law usually involves a huge upfront cost and it’s hard to really know if you’ll like it ahead of time. But the tech spec route can be a low-risk and cost-effective way of pursuing law for a CS graduate, particularly if coding isn’t really your thing, but you love reading, analyzing, and writing about technical topics in an extremely detailed and specific way!
+
+Find IP technology specialist jobs on The Muse
+Database Administrator
+Average salary
+:
+ $74,488
+
+A database administrator—or DBA for short—manages the systems that a company uses to house its most important data. For example, a DBA at a finance company might set up and maintain a database server to manage customer transactions. One of the key responsibilities of a DBA is structuring a company’s information in a way that it can be accessed efficiently while ensuring that data remains secure. A CS degree gives you a good mental model for how a database works, which is a great place to start as you begin troubleshooting issues. 
+
+DBAs work in a variety of industries like tech, healthcare, finance, retail, and education so you can definitely find a role at a company that you really love. These roles don’t require additional education beyond your bachelor’s degree and many will train you in the specialized knowledge you need. 
+
+Find database administrator roles on The Muse
+Lily Zhang is a career counselor at the MIT Media Lab, where she works with a range of students from AI experts to interaction designers on crafting their own unique career paths. When she’s not indulging in a new book or video game, she’s thinking about, talking about, or writing about careers. 
+MORE FROM LILY ZHANG

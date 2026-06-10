@@ -1,0 +1,1716 @@
+Awesome Cybersecurity Subreddits
+
+ 
+ 
+
+ Just another GitHub-inspired Awesome list - a curated collection of cybersecurity-oriented subreddits, tools, and essential links.
+
+ <div class="panel-wrapper">
+ <div class="panel-head" style="background-color: #00ccdd"> 📌 <b>Note:</b>
+ </div>
+ <div class="panel-body">
+ The resources provided are meant for your convenience and are not ranked in order of improvement. Also, while there are numerous subreddits available, the selection focuses on the most active and participatory communities on Reddit. All listed communities have been verified as active and functional thereby guiding you to efficient discussions.
+ </div>
+ </div>
+
+ Contribute
+
+I welcome community input! Feel free to 
+fork
+ 
+this repository to keep your own copy. If you have a suggestion for a new resource to be added or see something that needs a modification, please 
+open a Pull Request
+ to help keep this list up to date.
+
+1.
+ Fork the repo to your own account.
+
+2.
+ Make your changes or additions.
+
+3.
+ Submit a Pull Request for review!
+
+Modifications and new links are always appreciated. 
+
+🫶
+
+ 
+
+ 
+ Contents 
+
+Awesome Cybersecurity Reddit
+
+🥷 
+Hacking & Hacker Communities
+
+🐧 
+Linux & *nix Communities
+
+🧠 
+Industry-Approved Certifications, Tutorials & Training & Communities
+
+💸 
+General Cyber Career Communities
+
+🛡️ 
+General Cybersecurity 
+0b110001
+
+🤪 
+Cybersecurity Humor & Fails Communities
+
+ℹ️ 
+Information Security Communities
+
+🚩 
+Capture the Flag (CTF) Communities
+
+🕵️‍♀️ 
+Vulnerability Analysis & Exploit Research Communities
+
+☢️ 
+Malware & Threat Intelligence Communities
+
+🌐 
+Network Security Communities
+
+💾 
+Operating Systems Communities
+
+☁️ 
+Cloud Security Communities
+
+👾 
+Programming Security Communities
+
+🔎 
+Privacy & Cryptography Communities 
+
+🚨 
+Incident Response & Forensics Communities
+ 
+
+⚖️ 
+Governance, Risk, Compliance (GRC) Communities
+ 
+
+♨️ 
+A-Z Programming Languages Communities
+
+❇️ 
+Beginning Programming Communities
+
+❇️ 
+General Programming Communities
+
+❇️ 
+Programming Language-Specific Communities
+
+❇️ 
+Other Programming-Related Communities (APIs|Frameworks|Libraries|Editors)
+
+🪟 
+Microsoft Communities
+
+♣️
+ 
+Microsoft Active Directory (AD) Communities
+
+📧 
+Microsoft Exchange SMTP Enterprise Email Communities
+
+💻 
+Microsoft Windows Desktop Communities
+
+🧰 
+Microsoft Windows Server Communities
+
+☠️ 
+Anti-Microsoft Ever
+ything Communities
+
+📝 
+Microsoft Office Suites Communities
+
+❤️ 
+Miscellaneous Cybersecurity Communities
+
+ 
+ 
+ Contribution Guidelines 
+
+Please fork the repo and submit a Pull Request for any modifications or additions!
+
+🥷 
+Hacking & Hacker Communities
+
+r/hacking
+:
+ A subreddit dedicated to hacking and hackers. Constructive collaboration and learning about exploits, industry standards, grey and white hat hacking, new hardware and software hacking technology, sharing ideas and suggestions for small business and personal security.
+
+r/HowToHack:
+ This subreddit is your open hacker community designed to help you on the journey from neophyte to veteran in the world of underground skillsets. Ask, Answer, Learn.
+
+r/masterhacker
+:
+ 
+This subreddit is where you put those kids that can DDoS you because you logged into the hacked code on JavaScript YouTube C++ servers.
+
+r/hackers
+:
+ This subreddit is dedicated to the most interesting recent and historical hacks. Their topics do not need to be technical. They require detailed information in all posts. They also do not provide or promote black hat or malicious hacking of any kind.
+
+r/hackaday
+:
+ Hackaday serves up fresh hacks every day from around the internet. Read the latest articles from hackaday.com and all things of interest to hardware hackers, designers, and engineers.
+
+r/hardwarehacking
+:
+ The intersection of DIY, electrical engineering, repurposing, and security. Posts or discussions about improving, repurposing, hacking, or creating new devices out of old things are welcome.
+
+r/hackernews
+:
+ A subreddit community that is a mirror of the front page of Hacker News.
+
+r/Hacking_Tricks
+:
+ Hacking_tricks is a community for the latest hacking tips and tricks as well as the latest technology news and gadget information. Modded apps and premium accounts are also shared here.
+
+r/HackingPeople
+:
+ This subreddit is about hacking people through the use of concepts, machines, or social strategies.
+
+r/ActualHacking
+: 
+This is a subreddit where people that actually know how to hack can post. This includes SQLi, rooting, and any sort of hacking you can possibly think of, post it here.
+
+r/GuidedHacking
+:
+ This community hosts security-related topics such as reverse engineering, game hacking, exploit development, and malware analysis.
+
+r/Real_Hacking
+:
+ This subreddit community provides news on relevant hacking technologies, general hacking topics are debated and discussed here.
+
+r/hackerrankonreddit
+:
+ This is the official subreddit of HackerRank. Dedicated to tech and all things tech.
+
+r/HackingCommunity
+:
+ This subreddit promotes safe hacking.
+
+r/ethicalhacking
+:
+ A forum for discussing penetration testing, otherwise known as ethical hacking.
+
+r/hacks
+:
+ r/hacks is the place to share, discuss, and document cool and creative hacks.
+
+r/hackathon
+:
+ Discuss anything and everything related to hackathons. Hackathons are social coding events that bring people together to develop new projects in a short amount of time.
+
+r/HackingSimplified
+:
+ Hacking Simplified is a subreddit community where Redditors can post various resources that discuss and teach the art of hacking and pentesting while staying ethical and legal.
+
+r/HackingEDC
+:
+ "The tools you use to hack."
+
+r/hacken
+:
+ r/hacken is a place for Web3 developers and ethical hackers to exchange ideas on blockchain security. They have active discussions on crypto hacks and scams, expose bad actors, and break down regulations. Join to stay ahead in Web3 security, write secure smart contracts, and develop your winning bug bounty strategy.
+
+r/Hacking_Cracking:
+ In this subreddit community you will get updates to hacking video tutorials, and hacking tips and tricks.
+
+r/gamehacks
+:
+ This subreddit is dedicated to everything related to game hacking, modding, and other things. For all games like Fortnite, Call of Duty, Escape From Tarkov, Grand Theft Auto, and others.
+
+r/Python_AND_Hacking
+:
+ This is the official Python and Hacking subreddit for all of your Python, coding, and hacking information - learn, comment, share, enjoy, and subscribe today.
+
+r/hacksguider
+:
+ This is a community for enthusiasts and people who are dedicated to privacy. They believe privacy is everyone's right. Join and start learning how you can better protect your digital life and online footprint.
+
+r/bitcoinhackers
+:
+ This subreddit is for hacking up Bitcoin's internals, creating applications using the raw protocol, and more!
+
+r/HackingMusic
+:
+ This subreddit is dedicated to hosting music for hacking, waves for coding, mana for debugging, or creating new bugs. Playlists for developers and hackers to boost the logic part of the brain to output good software.
+
+r/Termux_Hacking
+:
+ This is the subreddit where you can start hacking just by using your smartphone. From beginner to advanced level hacking using your phone. In this community, you can learn, discuss, and try new things. Live chats are always available for you.
+
+r/NetworkHacking
+:
+ Here you can post your general questions, give or receive advice that involve network hacking and more. For educational purposes only.
+
+r/lowlevel
+:
+ Low-level programming and hacking subreddit for the Linux and Windows operating systems.
+
+r/DashHacking
+:
+ This is a subreddit for all Amazon Dash Hackers.
+
+r/HackingTipsforAll
+:
+ This subreddit shares useful tips and tricks for everyday hacking!
+
+r/WhiteHatHacking
+:
+ This subreddit is a community of white hat hackers and hacking that are ready to guide you on your path from a beginner to a professional in the field. Check out their website and on discord inside the subreddit.
+
+r/CarHacking
+:
+ 
+The ECU and protocols like CANbus have become the heart and brain of most modern cars, but it has also become a locked down black box. This is a place for people interested in taking back control of the car they bought. New age hot rodders, ECOmodders, security researchers, the curious, the paranoid. and the tinkerers are all welcome. They encourage the use of open-source solutions and tools like Arduino and Raspberry Pi.
+
+r/blackhat
+:
+ 
+This subreddit is focused on the ongoing discussion and documentation of vulnerabilities and exploitation techniques. Please read the rules before posting there.
+
+r/HouseHacking
+:
+ 
+Pictures of flash drives in places flash drives should not be.
+
+r/HackingTheSystem
+:
+ This subreddit is a place where people spread and create hacks to simplify or bypass common issues.
+
+r/hackingforall
+:
+ 
+This subreddit hosts chats about all kinds of different hacking experiences, shares insights and knowledge and even allows learning how to hire hackers for sale.
+
+r/HackersDiscussionRoom
+:
+ This subreddit brings you non-biased IT security (hacking) news to ensure many are kept abreast of daily occurrences within this constantly evolving sector. They also provide you with the latest happenings in the dark web and underground marketplaces.
+
+🐧 
+Linux & *nix Communities
+
+r/Linux
+:
+ This community shares information and news on Linux, interesting developments, and press. If you are looking for tech support, 
+/r/Linux4Noobs
+ and 
+/r/linuxquestions
+ are both friendly communities that can also provide a helping hand. Please refrain from posting help requests there, they've advised.
+
+r/linuxsucks
+:
+ A subreddit for sharing your frustration with Linux and discussing the ways in which it sucks.
+
+r/Kali_Linux_Essentials
+:
+ Posting hacks and exploits daily.
+
+r/linuxquestions
+:
+ A subreddit for asking questions about Linux and all things pertaining to it.
+
+r/linuxgaming
+:
+ 
+A subreddit for discussions about news about gaming on the GNU/Linux family of operating systems (including the Steam Deck).
+
+r/linux4noobs
+:
+ 
+Linux introductions, tips and tutorials. Questions are encouraged. Any distro, any platform! Explicitly noob-friendly.
+
+r/linuxhardware
+:
+ A subreddit where you can ask questions about what hardware supports GNU/Linux, how to get things working, places to buy from (i.e. they support GNU/Linux) and so on. No hard and fast rules as such, posts will be treated on their own merit.
+
+r/LinuxPorn
+:
+ Post beautiful Linux desktops. Desktops that are posted here doesn’t have to be configured as long as the desktop is beautiful!
+
+r/linux_programming
+:
+ Everything related to GNU/Linux/UNIX/POSIX systems, programming, and tools.
+
+r/linuxmint
+:
+ Subreddit for news, discussion and support for the Linux distribution, Linux Mint.
+
+r/unixporn
+:
+ Submit screenshots of all your *NIX desktops, themes, and nifty configurations, or submit anything else that will make ricers happy. Maybe a server running on an Amiga, or a Thinkpad signed by Bjarne Stroustrup? Show the world how pretty your computer can be!
+
+r/LinuxCringe
+:
+ This is a place to post people's misconceptions about Linux.
+
+r/archlinux
+:
+ 
+A subreddit for the Arch Linux user community for support and useful news.
+
+r/linuxprojects
+:
+ A subreddit dedicated to showcasing unique and interesting projects involving Linux based operating systems.
+
+r/Ubuntu
+:
+ The Ubuntu community on Reddit.
+
+r/WildLinuxAppears
+:
+ The Linux kernel runs in countless devices across the world, including in-flight entertainment systems, train kiosks, Point of Sale systems, and more. If you see Linux showing its color in an unexpected place, share it here!
+
+r/linuxfromscratch
+:
+ A subreddit discussing Linux From Scratch and how to build it. Post anything related to Linux From Scratch or any opinions that you would like to share.
+
+r/Linuxers
+:
+ Linux and FOSS fans. All posts about Linux, open source, Linux gaming, hardware and so on can be posted. This is a community for Linux users new and old, everyone should feel welcome.
+
+r/linux_on_mac
+:
+ All about running Linux on Apple/Mac hardware, both PPC and Intel based. How to's, requests for help, news, you name it!
+
+r/AskLinuxUsers
+:
+ A subreddit to ask questions to Linux users. Quality over quantity!
+
+r/linux_configuration
+:
+ A subreddit with posts about how to configure/install Linux programs such as Vim, Emacs, Pidgin, and more.
+
+r/linux_jobs
+:
+ A subreddit that discusses Linux jobs.
+
+r/AndroidLinuxInternals
+:
+ Linux is a general and open source operating system and it is very popular in embedded area. While building an embedded Linux system we should hack the kernel and add components such as device drivers, file systems, network modules etc. Android is Google's operating system that is based on Linux kernel and today its a good alternative for embedded system. In this subreddit we 
+post and talk about all the internal parts of Linux and Android.
+
+r/linux_mentor
+:
+ Want to become a Unix System administrator? Wanna learn to use the commandline on OSX or Linux? Welcome to Linux System Administration Mentoring Group and Subreddit. Need a mentor?
+
+r/LinuxDistros
+:
+ 
+News and updates on Linux and Linux distros!
+
+r/kernel
+:
+ A moderated community dedicated to technical discussion about the Linux kernel.
+
+r/LinuxOnThinkpad
+:
+ This subreddit is a dedicated place for reviewing "What's going on" about Linux on Thinkpads. This subreddit is also a sister sub of /r/LinuxOnThinkpads, where cross-posting is not allowed. All posts other than *Announcements* and *Meta* discussions from our connected sibling subs will be automatically forwarded here. We also connect with wiki and blog writers, software developers and LinuxOnThinkpad users to help improve the ecosystem of Linux on Thinkpads and help answer questions in need.
+
+r/LinuxTutorials
+:
+ This subreddit is for users of the Linux operating system to share tips, tutorials, and advice.
+
+r/voidinux
+:
+ Void Linux is a general operating system based on the Linux Kernel.
+
+r/linuxcommands
+:
+ A subreddit to post Linux commands that can be used as a reference for beginners.
+
+r/Fedora
+:
+ An unofficial general interest community for the Fedora Project, Fedora Linux, and its associated software.
+
+r/LinuxUprising
+:
+ Subreddit for 
+https://www.linuxuprising.com
+, 'your Linux / open source toolbox.'
+
+r/LinuxLite
+:
+ The purpose of Linux Lite is to introduce Windows users to Linux, and provide them with a comfortable and useful user experience. It is designed to be simple and suitable for new Linux users who want a lightweight, highly responsive, and fully functional environment.
+
+r/linux_community
+:
+ Lightly moderated, lively, and friendly discussion about Linux, distros, and related topics.
+
+r/LinuxCriticism
+:
+ A place where all criticism of Linux related things is accepted, well received, and never down voted all in the hope that some of the criticism will be used to improved the thing being criticized by those responsible for it.
+
+r/LeftyLinux
+:
+ Linux and Free Software from a left-wing perspective.
+
+r/LinuxShell
+:
+ Linux Shell / Terminal / CLI / SSH / — Techniques / Tips / Tools and Tricks For the ❤️ of Linux!
+
+r/LinuxFurries
+:
+ This is the official Linux Furries Society subreddit! 
+(*^‿^*)
+ This sub is a collection/archive of artworks depicting cute versions of GNU/Linux distro logos, Linux themed wallpapers, and more! feel free to share your art with us!
+
+r/linuxaudio
+:
+ Dedicated to audio on all free and open source operating systems, especially Linux.
+
+r/LinuxServer
+:
+ Everything revolves around Linux servers and generally Linux systems. Instructions on Homeserver, Docker and Unraid.
+
+r/LinuxOnAlly
+:
+ This subreddit is dedicated for Linux on the ROG Ally Handheld!
+
+r/AMD_Linux
+:
+ 
+Welcome to /r/AMD_Linux, a place where we discuss anythin
+g to do wit
+h running Linux on AMD hardware. Talk about news, get support or show off your setup!
+
+r/LinuxCrackSupport
+:
+ Welcome to Linux Crack Tips, the place to ask, answer, share and discuss everything about troubleshooting cracked games on Linux.
+
+r/debian
+:
+ Subreddit to discuss all the Debian things, the Universal Operating System.
+
+r/gentoo
+:
+ The place to find relevant information on Gentoo Linux.
+
+r/gnome
+:
+ GNOME is a free and open-source software environment project supported by a non-profit foundation. Together, the community of contributors and the Foundation create a computing platform and software ecosystem, composed entirely of free software, that is designed to be elegant, efficient, and easy to use.
+
+r/linuxmint
+:
+ This subreddit has news, discussion, and support for Linux Mint.
+
+r/opensuse
+:
+ The openSUSE subreddit is for activities like spreading awareness of openSUSE, engaging in openSUSE shilling fests, devising new and bright ideas, working and engaging with contributors and helping with all potential issues or misunderstandings connected to openSUSE Linux or its community. Since its inception in 2010, this subreddit helped thousands of people with all kinds of problems and provided more useful information since. Become a part of this awesome community to make your life a little bit greener and to have a beer or two together sometime.
+
+r/ManjaroLinux
+:
+ Manjaro is a GNU/Linux distribution based on Arch. A rolling release distro featuring a user-friendly installer, tested updates and a community of friendly users for support. Official releases include Xfce, KDE, Gnome, and the minimal CLI-Installer Architect. Community releases include Awesome, bspwm, Budgie, Cinnamon, i3, LXDE, LXQT, Mate, OpenBox and builds for ARM devices like the Raspberry Pi and the Pinebook.
+
+r/pop_os
+:
+ PopOS is an operating system for STEM and creative professionals who use their computer as a tool to discover and create. Unleash your potential on secure, reliable open source software. Based on your exceptional curiosity, we sense you have a lot of it.
+
+r/elementaryos
+:
+ This subreddit is dedicated to providing you news and discussion for Elementary OS.
+
+r/distrohopping
+:
+ Distro Hopping - For People That Can't Make A Decision; Pros/Cons of each distribution, personal experiences, that kind of stuff.
+
+r/EndeavourOS
+:
+ A terminal-centric distro with a vibrant community at its core. This is an unofficial subreddit.
+
+r/GarudaLinux
+:
+ Discuss the Arch-based Garuda Linux - our official community place is the forum.
+
+r/NobaraProject
+:
+ The (unofficial) subreddit dedicated to discussion of GloriousEggroll’s Nobara Linux distro, based on Fedora and designed to make Linux gaming simple and approachable.
+
+r/ZorinOS
+:
+ ZorinOS is an Ubuntu-based Linux distribution designed especially for newcomers to Linux. The distribution's ultimate goal is to provide a Linux alternative to Windows and let Windows users enjoy all the features of Linux without complications.
+
+r/Qubes
+:
+ Qubes OS is a security-oriented operating system that allows you to compartmentalize your data and activities into isolated environments called "qubes" so that a single cyberattack can't take down your entire digital life in one fail swoop.
+
+r/RockyLinux
+:
+ An open enterprise operating system project.
+
+r/SteamOS
+:
+ A reddit that has discussions and provides information about the Steam operating system.
+
+r/KDE
+:
+ KDE is an international community creating free and open source software.
+
+r/kalilinux
+:
+ Dedicated to Kali Linux, a complete re-build of BackTrack Linux, adhering to Debian's development standards with an all-new infrastructure.
+
+🧠 
+Industry-Approved Certifications, Tutorials & Training Subreddits & Communities
+
+r/CompTIA_Pentest+
+:
+ A community for cybersecurity professionals and learners preparing for the CompTIA Pentest+ certification. Discuss study strategies, exam objectives, pentesting tools, ethical hacking techniques, and more.
+
+r/SCICertifications
+:
+ A subreddit to discuss Microsoft Security, Compliance and Identity certifications. If you are new here, read the pinned guide for all relevant information. Check out their other certification subreddits.
+
+r/CompTIA
+:
+ All CompTIA certifications (Security+, CySA+, CASP+) study guides and exam tips.
+
+r/CISSP
+:
+ CISSP certification study groups, experience sharing, and continuing education.
+
+r/OSCP
+:
+ 
+Offensive Security Certified Professional exam preparation and lab discussions.
+
+r/Cisco
+:
+ Cisco security certifications (CCNA Security, CCNP Security) and networking security.
+
+r/cybersecuritytraining
+:
+ 
+This subreddit is your place for all things cyber security training and education.
+
+r/IT_CERT_STUDY
+:
+ 
+General IT certification discussions including security-focused credentials.
+
+r/linux_tutorials
+:
+ This is a place to post people's misconceptions about Linux.
+
+r/Hacking_Tutorials
+:
+ Hacking Tutorials is a sub where you can post various resources that discuss and teach the art of hacking and pentesting while staying ethical and legal. This community does not provide, promote, or support any kind of malicious hacking services.
+
+💸 
+General Cyber Career Subreddit Communities
+
+r/SecurityCareerAdvice
+:
+ Like CSCareerQuestions, only cooler. This subreddit is a place to connect those seeking to learn with those who have walked the path before. Ask your questions about cybersecurity careers here, and mentors can choose to answer as they have time. Ask. Mentor. Grow.
+
+r/CyberSecurityAdvice
+:
+ For advice and tips on cybersecurity. Not just for knowledgeable IT guys, they are here to help everyone.
+
+r/ITCareerQuestions:
+ This subreddit is designed to help anyone in or interested in the IT field to ask career-related questions.
+
+r/CybersecurityCareers
+:
+ This community is your hub for sharing insights, resources, job opportunities, and advice. Let's navigate the ever-evolving landscape of cybersecurity careers together.
+
+r/cscareerquestions
+:
+ CSCareerQuestions is a community for those who are in the process of entering or are already part of the computer science field. Our goal is to help navigate and share challenges of the industry and strategies to be successful.
+
+r/cybersecurity_jobs
+:
+ Looking for the cybersecurity jobs subreddit? Use r/cybersecurityjobs.
+
+r/learncybersecurity
+:
+ In this subreddit you can learn and discuss the process of protecting and recovering networks, devices and programs from any type of cyberattack.
+
+r/microsoft_jobs
+:
+ 
+This subreddit displays job postings for employment at Microsoft hubs around the world.
+
+🛡️ 
+General Cybersecurity 
+0b1100101
+
+r/cybersecurity
+:
+ This subreddit discusses anything related to cybersecurity, cyber defense, threats, threat actors, and more.
+
+r/Cybersecurity101
+:
+ 
+A community for beginners and enthusiasts to learn the basics of cybersecurity. Ask questions, share tips, discuss best practices, and stay updated with the latest news on staying safe online.
+
+r/cybersecurity4U
+:
+ The purpose of this community is to offer defensive security advice from offensive security professional's prospective to help protect and advanced the security of individuals outside the safeguards of a company.
+
+r/CyberSecurityGroup
+:
+ The subreddit for security professional. Cyber & Technology discussions allowed.
+
+r/CybersecurityClub
+:
+ Are you passionate about cybersecurity? Whether you’re a seasoned professional, a curious student, a hobbyist tinkering with a homelab, or someone just dipping their toes into the world of digital security, the Cybersecurity Club community is the place for you.
+
+r/ComputerSecurity
+:
+ A subreddit about IT security, news, articles, and tools.
+
+r/OAuth
+:
+ A subreddit for discussing OAuth spec and tech. Both server (provider) and client (consumer) endpoints. Best practices, security and privacy, exploits and security holes, plus more.
+
+r/cybersecurityai
+:
+ This subreddit is considered Reddit's home for the intersection of Cybersecurity and AI.
+
+r/cybersecurityconcepts
+:
+ This is a community to explore cybersecurity concepts, from ethical hacking and threat intelligence to cloud security and online safety. Share knowledge, tutorials, news, and real-world examples to understand and protect the digital world. Perfect for beginners, enthusiasts, and pros who want to learn and discuss cybersecurity in depth.
+
+r/cybersecuritybeginner
+:
+ This subreddit is for sharing of tips, tricks, articles, tutorials, videos and basically any resources related to cyber security.
+
+📰 
+General Cybersecurity News, Trending Theats & Security-Focused Insights
+
+r/cyber
+:
+ 
+General cyber security news, breaches, and discussions for all skill levels.
+
+r/CyberNews
+:
+ This subreddit is a place to share and discuss newsworthy information on cybersecurity and technology. Join and share the latest topics, questions or issues.
+
+r/cybersecurityinsights
+:
+ This subreddit is dedicated to discussing the latest trends, threats and best practices in cybersecurity.
+
+r/InfoSecNews
+:
+ This subreddit is designed for users to post the latest Information Security related news and articles from around the Internet. The subreddit is intended to provide a location one can come and receive updated security news including security, privacy, and other security related industries or topics.
+
+r/SysadminNews:
+ Dedicated community to sharing knowledge over daily system administrative tasks, issues, and struggles. Support, and everyone of all skill levels are welcome.
+
+r/ciso
+:
+ This community hosts conversations to support security leaders in staying on top of news and the latest trends in information security.
+
+r/CYBERSECURITY_TIPS
+:
+ This subreddit is a group for beginners of any kind who are interested in cyber security and awareness to gather knowledge and share ideas.
+
+r/embeddedlinux
+:
+ A place for everything related to Embedded Linux, news, articles, talks, and more.
+
+r/LinuxUncensored
+:
+ Linux Uncensored Reddit: Discussing Linux pros and cons without fanboyism, and without vilifying everything that's not open-source.
+
+r/Latest_Hacking_News
+:
+ This subreddit is made up of a collaboration of IT security experts with over 30 years combined technical knowledge in this field. Their main aim is to collaborate with other experts as well as help others who have a genuine interest in the IT security field.
+
+r/News_Microsoft
+:
+ Fresh and trending news about Microsoft business, finance, employment, products, technology, and related companies in the IT industry, posted by news bot powered by AI. Welcome to join and share your ideas and opinions.
+
+🤪 
+Cybersecurity Humor & Fails Subreddit Communities
+
+r/CybersecurityHumor
+:
+ A subreddit for jokes about cyber security as a whole to give everyone a giggle.
+
+r/Sysadminhumor
+:
+ Lulz from crazy IT peoplez.
+
+r/InfosecHumor
+:
+ Where threat models fail, alerts never stop, and every "secure by design" claim eventually burns. Red teams, blue teams, SOC fatigue, pentest wreckage-this is the humor you earn, not the kind you explain.
+
+/r/ProgrammerHumor
+:
+ While broader, it's the perfect subreddit for web app dev jokes, coding memes, and general software culture.
+
+r/WhatAreTheOdds
+:
+ Excellent subreddit for showcasing ITs most improbable and hilarious (and not-so hilarious) failures or coincidences.
+
+r/talesfromsecurity
+:
+ A place for security professionals to tell stories security.
+
+r/ShittySysadmin:
+ A shitty subreddit for shitty sysadmins.
+
+ℹ️ 
+Information Security Communities
+
+r/infosecurity
+:
+ This is a subreddit dedicated to Information Security.
+
+r/CybersecurityDS
+:
+ This community is a place to share, discuss, and demonstrate DS/ML knowledge, skills, and abilities and how they apply to cybersecurity.
+
+r/SecurityRedTeam
+:
+ A subreddit for Red Teamers. Discussion around ethical hacking, penetration testing, CTFs, vulnerability assessment, red team operations, bug bounties, and more.
+
+🚩 
+Capture the Flag (CTF) Subreddit Communities
+
+r/CTF
+
+r/CTFlearn
+:
+ This community-run subreddit is dedicated to all things CTFlearn.com.
+
+r/CTFlearners
+:
+ This subreddit welcomes people who want to understand computers and compete in CTF challenges.
+
+r/picoCTF
+:
+ This is a subreddit for people who are participating in the picoCTF competitions.
+
+r/securityCTF
+:
+ Security Capture The Flag events, team building, and practice platforms.
+
+r/LearnCTF
+:
+ The purpose of this subreddit is to share and help people learn how to compete in CTFs. They compete in CTF competitions and use those challenges as learning moments for their members. They also have tons of fun chatting whilst solving challenges, so don't hesitate to join a friendly learning environment.
+
+r/CTF_players
+:
+ This subreddit holds daily discussions about CTF's problems and challenges.
+
+r/OpenToAllCTFteam
+:
+ OpenToAll s a CTF community that is open to everyone who wants to learn how to CTF or wants to be in a community of people driven to learn more about challenges, pwning, reverse engineering, web hacking, forensics, crypto, and a myriad of other topics.
+
+r/CtfTeamLookUp
+:
+ Capture the Flag (or CTF) are events created to help develop and sharpen cybersecurity skills. These events are often played in teams. Finding a team can sometimes be a difficult procedure. This subreddit looks to make that process easier.
+
+r/ICTF
+:
+ A subreddit built by ImaginaryCTF Server or Cybersecurity Competitors, new and old, to learn and test their skills in challenges created and released every day.
+
+r/openctf
+:
+ This subreddit is a place where you can share CTF challenges and discuss other related subject matter.
+
+r/MitreMemes
+:
+ This subreddit hosts discussions about memes and goofs centered around the Mitre CTF platform.
+
+r/hacktoria
+:
+ This subreddit is about OSINT and DFIR CTFs.
+
+r/LiveOverflow
+:
+ This subreddit is a place to discuss and create live hacking videos, or other content that is related to CTFs.
+
+🕵️‍♀️ 
+Vulnerability Analysis & Exploit Research Subreddit Communities
+
+r/ExploitDev
+:
+ 
+Exploit development for fun and profit. Beginners welcome.
+
+r/fulldisclosure
+:
+ 
+This subreddit is for anything related to breaches, data leaks, exploits, vulnerabilities, informed and uninformed disclosures.
+
+r/VulnChallenge
+:
+ A community for simulated bug bounty challenges based on real vulnerability reports. Each post recreates a real bug (with all data sanitized) and presents it as a challenge for members to analyze, discuss, and solve. Learn how real exploits work, share you reasoning, and sharpen your skills ethically, safely, and together.
+
+r/websecurity
+:
+ Links and discussion on the development and maintenance of secure websites for website owners, developers, and pentesters.
+
+r/pwnhub
+:
+ 
+Welcome to PWN - your community for hackers and cybersecurity enthusiasts. Discover the latest hacking news, breach reports, and educational resources on ethical hacking and more. Connect with like-minded people today!
+
+r/AppSecurity
+:
+ This subreddit was created to supplement the more general network security hubs. Share news about OWASP, news that has to do with AppSec (breaches, new open-source tools) and anything educational for developers, students, and anyone that wants to learn more about AppSec.
+
+r/SecurityEngineering
+:
+ A community for building security tools and secure code.
+
+r/WindowsSecurity
+:
+ Expert-level Windows security discussions for security professionals: hardening, security updates, policies, standards, privacy, tips, tools, red team, blue team, and other related topics. No tech support.
+
+r/VulnerabilityResearch
+:
+ A place to share vulnerability research, binary analysis, and reverse engineering tools, news, and techniques.
+
+r/ComputerSecurity
+:
+ IT security news, articles, and tools.
+
+r/macOSSecurity
+:
+ A home for discussions related to macOS security, malware, reverse engineering, vulnerabilities, and exploits.
+
+r/CVEwatch
+:
+ A community for tracking and understanding the latest vulnerabilities. Here you will find curated CVE alerts, technical analysis, discussion threads, and resources to help you stay ahead in your vulnerability research.
+
+☢️ 
+Malware & Threat Intelligence Subreddit Communities
+
+r/Malware
+:
+ A place for malware reports, analysis, and information for [anti]malware professionals and enthusiasts.
+
+r/Exploiters
+:
+ This subreddit is known for holding events and contests using real exploits and coding techniques.
+
+r/BlackHatExploits
+:
+ This subreddit is a place to talk about scams, exploits, and much more.
+
+r/SteamExploits
+:
+ A community for sharing and discussing steam exploits.
+
+r/antiviruses
+:
+ All things about antivirus.
+
+r/codebreaking
+:
+ For those interested in code breaking and making.
+
+r/exploits
+:
+ Subreddit for different kinds of exploits: money-making exploitation; video game-related exploitation; and other rules. They have mandatory guidelines you must follow before posting.
+
+r/ps5_jailbreak
+:
+ A place for general discussion and news relating to PS5 exploits and jailbreak news.
+
+r/MalwareResearch
+:
+ Community for malware researchers.
+
+r/SwitchHaxing
+:
+ The number one Nintendo switch hacking subreddit. Home of the latest information, exploits, and breakthroughs!
+
+r/UnlockedAI
+:
+ Jailbreaks, prompt exploits, and honest reports on which models deliver, and which AI 'services' do not.
+
+r/TheCyberPost
+:
+ 
+Daily cyber security news articles on the latest breaches, hackers, exploits, and cyber threats. Learn and educate yourself with malware analysis, cyber crime insights, and real-world threats.
+
+r/ReverseEngineering
+:
+ Binary reverse engineering, malware dissection, and tool sharing.
+
+r/threatintel
+:
+ Threat intelligence sharing, IOCs, and strategic threat analysis.
+
+r/blueteamsec
+:
+ Defensive security, incident response, and blue team operations.
+
+🌐 
+Network Security Subreddit Communities
+
+r/networking
+:
+ Enterprise networking with security focus, firewalls, and network architecture.
+
+r/homenetworking
+:
+ Securing home networks, router configurations, and IoT security.
+
+r/AskNetsec
+:
+ Questions and answers for network security professionals and students.
+
+r/pfSense
+:
+ pfSense firewall configuration, VPN setup, and network security.
+
+r/OPNsense
+:
+ OPNsense firewall discussions and security implementations.
+
+r/VPN
+:
+ VPN technologies, privacy tools, and secure communications.
+
+💾 
+Operating Systems Subreddit Communities
+
+r/linuxsecurity 
+: Linux-specific security tools, hardening guides, and vulnerability discussions.
+
+r/WindowsSysAdmin 
+: Windows Server security, Active Directory, and enterprise Windows hardening.
+
+r/macsysadmin 
+: macOS security management, MDM, and enterprise Apple device security.
+
+☁️ 
+Cloud Security Subreddit Communities
+
+r/Azure
+:
+ Microsoft Azure security, Sentinel SIEM, and cloud governance.
+
+r/googlecloud
+:
+ Google Cloud Platform security, Chronicle SIEM, and cloud architecture.
+
+r/cloudsecurity
+:
+ Multi-cloud security strategies, CASB, and cloud compliance frameworks.
+
+r/devsecops
+:
+ Integrating security into DevOps pipelines, automation, and secure coding.
+
+👾 
+Programming Security Subreddit Communities
+
+r/websecurity
+:
+ Web application security, OWASP, and secure development lifecycle.
+
+r/AskProgramming
+:
+ Security-focused programming questions and secure architecture discussions.
+
+r/Python
+:
+ Python for security tools, automation, and scripting with security libraries.
+
+r/PowerShell
+:
+ Security automation, forensic scripts, and incident response tools.
+
+🔎 
+Privacy & Cryptography Communities
+
+r/crypto
+:
+ Cryptography theory, implementation, and cryptographic protocol discussions.
+
+r/privacytoolsIO
+:
+ Privacy-focused software recommendations and security tool reviews.
+
+r/encryption
+:
+ Encryption algorithms, key management, and data protection strategies.
+
+r/TOR
+:
+ Tor network, onion services, and anonymous communications research.
+
+🚨 
+Incident Response & Forensics Communities 🔎
+
+r/incidentresponse
+:
+ IR procedures, playbooks, and breach handling methodologies.
+
+r/memoryforensics
+:
+ Memory analysis, volatility framework, and RAM extraction techniques.
+
+r/loganalysis
+:
+ SIEM log analysis, correlation rules, and threat hunting with logs.
+
+r/DFIR
+:
+ Digital Forensics and Incident Response combined community.
+
+⚖️ 
+Governance, Risk, Compliance (GRC) Communities
+
+r/sox
+:
+ Sarbanes-Oxley compliance, IT controls, and audit procedures.
+
+r/ISO27001
+:
+ ISO 27001 implementation, ISMS, and certification guidance.
+
+r/HI
+PAA:
+ Healthcare data security, HIPAA compliance, and medical IT security.
+
+r/PCI
+:
+ 
+Payment Card Industry compliance and secure payment processing.
+
+♨️ 
+A-Z Programming Languages Communities
+
+r/Ada:
+ Pointers to news, articles, and other items of interest about the Ada programming language.
+
+r/dotnet:
+ .NET Community; if you are using C#, VB.NET, F#, or anything running with .NET ... you are at the right place!
+
+r/csharp:
+ All about the object-oriented programming language C#.
+
+r/ProgrammingLanguages:
+ This subreddit is dedicated to the theory, design, and implementation of progamming languages.
+
+r/learnprogramming:
+ 
+A subreddit for all questions related to programming in any language.
+
+r/Programming_Languages:
+ Welcome to Programming-help to learn about programming languages.
+
+r/programming:
+ 
+With over 6.8M members, computer programming is where you need to be if you are going down this path.
+
+r/Rlanguage:
+ Subreddit that is interested in implementing R programming language for statistics and data science.
+
+r/ProgrammerTIL:
+ 
+Learn something new? Want to share? Post here in "Today I Learned" along with the language or framework you learned it in. This is a great place for novice and advanced programmers alike to come, discover, share and implement new ideas.
+
+r/coding:
+ 
+Fuck /u/spez.
+
+Beginning Programming Subreddit Communities
+
+r/carlhprogramming
+: 
+An archive for the series of free programming classes taught by Carl Herold, designed for beginners on up.
+
+r/django_class
+:
+ Welcome newbie Djangonauts. You came to the right place to learn Django.
+
+r/learnprogramming
+: 
+A subreddit for all questions related to programming in any language.
+
+General Programming Subreddit Communities
+
+r/CodingContests
+:
+ CodingContests: For fun and glory!
+
+r/agi
+:
+ Artificial general intelligence (AGI) is the intelligence of a machine that could successfully perform any intellectual task that a human being can. It is a primary goal of artificial intelligence research and an important topic for science fiction writers and futurists. Artificial general intelligence is also referred to as "strong AI", "full AI" or as the ability of a machine to perform "general intelligent action". 
+/r/neuralnetworks
+, 
+/r/artificial
+, 
+/r/machinelearning
+, 
+/r/OpenCog
+, or 
+/r/causality
+.
+
+r/algorithms
+:
+ Computer Science for Computer Scientists.
+
+r/cocoadev
+:
+ Subreddit dedicated to Cocoa development.
+
+r/code
+:
+ This subreddit is for posting, sharing, and discussing code written in any programming language.
+
+codeprojects
+:
+ This is a subreddit for posting your (or other people's) current projects. Any works in progress, or completed projects are allowed.
+
+r/compsci
+:
+ Computer Science Theory and Application. We share and discuss any content that computer scientists find interesting. People from all walks of life welcome, including hackers, hobbyists, professionals, and academics.
+
+r/coq
+
+r/csbooks
+:
+ Free (and legal) computer science textbooks.
+
+r/dependent_types
+: 
+Agda, Idris, Coq, and Type Theory.
+
+r/functional
+
+r/gamedev
+:
+ The subreddit covers various game development aspects, including programming, design, writing, art, game jams, postmortems, and marketing. It serves as a hub for game creators to discuss and share their insights, experiences, and expertise in the industry.
+
+r/genetic_algorithms
+:
+ Genetic Algorithms: algorithms and programming tips.
+
+r/greasemonkey
+: 
+GreaseMonkey scripts for Reddit.
+
+r/machinelearning
+:
+ Beginners -> 
+/r/mlquestions
+ or 
+/r/learnmachinelearning
+ , AGI -> 
+/r/singularity
+, career advices -> 
+/r/cscareerquestions
+, datasets -> 
+r/datasets
+.
+
+r/macosprogramming
+
+r/onlycode
+
+r/softwaredevelopment
+:
+ Software Development - methodologies, techniques, and tools. Covers Agile, RUP, Waterfall, Crystal, Extreme Programming, Scrum, Lean, Kanban and more.
+
+r/systems
+:
+ This is the home page of the /r/systems community on reddit.
+
+r/threads
+:
+ Subreddit dedicated to multithreading, concurrency and parallelism.
+
+r/types
+:
+ Subreddit for types, typed programming, and static program analysis.
+
+r/webdev
+: 
+A community dedicated to all things web development: both front-end and back-end. For more design-related questions, try 
+/r/web_design
+.
+
+Programming Language-Specific Subreddit Communities
+
+r/Ada
+:
+ Pointers to news, articles, and other items of interest about the Ada programming language.
+
+r/AppleScript
+:
+ AppleScript is Apple's powerful and versatile native scripting technology for Mac OS X.
+
+r/Arc
+:
+ A place for everything Intel Arc and gaming. Come talk about Intel Arc news, rumors, GPUs and reviews, share your Intel Arc gaming setup and more.
+
+r/asm
+: 
+This is the subreddit for Assembly language in all Instruction Set Architectures!
+
+r/AWK
+:
+ AWK - programming language by Aho, Weinberger and Kernighan.
+
+r/Brainfuck
+: 
+Everything related to the Brainfuck Programming Language.
+
+r/Clojure
+:
+ Clojure is a dynamic, general-purpose programming language, combining the approachability and interactive development of a scripting language with an efficient and robust infrastructure for multithreaded programming.
+
+r/Cobol
+:
+ Cobol Programming Language Articles.
+
+r/common_lisp
+: 
+Common Lisp is one of the main Lisp dialects. Developed from 1981 onwards it is still in use today. Major Common Lisp implementations are SBCL, ECL, ABCL, Allegro CL, LispWorks. This subreddit is for Common Lisp developers and its topic is: Software development with Common Lisp.
+
+r/coldfusion
+:
+ Discussion on the CFML programming language and the Adobe ColdFusion, Lucee, and Open Blue Dragon platforms.
+
+r/cplusplus
+:
+ C++ is a high-level, general-purpose programming language first released in 1985. Modern C++ has object-oriented, generic, and functional features, in addition to facilities for low-level memory manipulation.
+
+r/cpp:
+ 
+Discussions, articles and news about the C++ programming language or programming in C++.
+
+r/csharp
+:
+ All about the object-oriented programming language C#.
+
+r/c_language
+:
+ The subreddit for everything on the C Programming Language.
+
+r/c_programming
+:
+ The subreddit for everything on the C Programming Language.
+
+r/d_language
+:
+ The subreddit for everything on the D Programming Language.
+
+r/Delphi
+:
+ Everything about Delphi and Pascal: This is the subreddit for Delphi from Embarcadero (FKA CodeGear, FKA Borland) and related Object Pascal languages and tools such as FreePascal and Oxygene.
+
+r/Erlang
+:
+ Erlang is a functional, concurrent, fault-tolerant programming language. This subreddit is focused around the Erlang programming language and its BEAM runtime. Other BEAM runtime languages are also welcome.
+
+r/factor
+:
+ Subreddit for Factor Programming.
+
+r/forth
+:
+ The main subreddit for the Forth programming language with the tagline 
+"Forth - The programming language for low-fat computing,"
+ where users discuss its unique stack-based, interactive nature, share code, ask questions, and explore its use in embedded systems and other applications, alongside related communities like 
+r/programming
+ and 
+r/embedded
+.
+
+r/Fortran
+:
+ This community is a place for discussion about all things Fortran, including the language itself, libraries, applications, and tools like the Fortran Package Manager (fpm). The community also frequently discusses modern Fortran standards and its use in scientific and high-performance computing.
+
+r/fsharp
+:
+ F# is an open-source, cross-platform functional-first programming language that runs on .NET and supports object-oriented and imperative programming methods. The subreddit serves as one of the community spaces for discussion, sharing resources, and asking questions related to the language.
+
+r/Groovy
+:
+ The Groovy programming language-a subreddit for the Apache Groovy programming language.
+
+r/Haskell
+:
+ The Haskell programming language community. Daily news and info about all things Haskell related: practical stuff, theory, types, libraries, jobs, patches, releases, events and conferences and more.
+
+r/JavaScript
+:
+ Chat about JavaScript and JavaScript-related projects. Yes, typescript counts.
+
+r/Java
+:
+ Subreddit for all things Java-related: news, technical discussions, research papers, and assorted things of interest related to the Java programming language.
+
+r/lisp
+:
+ A subreddit for the Lisp family of programming languages.
+
+r/Lua
+:
+ News and discussion for the Lua programming language.
+
+r/matlab
+:
+ The main subreddit for the MATLAB programming language. It serves as a community forum for discussing the language, its implementation, and related numeric computing topics.
+
+r/newLISP
+:
+ This community discusses various Lisp dialects, including newLISP, Common Lisp, Scheme, and Clojure. You can use the search function within that subreddit to find posts relevant to newLISP, or create a new post with your questions.
+
+r/ObjectiveC
+:
+ This community focuses on discussing, sharing articles, code samples, and open-source projects related to the language. While the language was once the primary one for Apple's macOS and iOS development, the community is less active than in previous years, as Apple now primarily promotes Swift for new projects.
+
+r/OCaml
+:
+ This subreddit serves as a forum for news and discussions about the language, its ecosystem, and related topics. The community also actively participates in the official OCaml community discourse forum, which is a popular platform for discussions and official updates.
+
+r/Pascal
+:
+ Pascal, Freepascal (FPC), Lazarus IDE, Turbo Pascal, Delphi, all dialects of the Pascal programming language.
+
+r/Perl
+:
+ This subreddit is the primary community for discussing the Perl 5 language, including its uses, news, and development. For those interested in the related language Raku (formerly Perl 6), a separate community exists at r/rakulang. 
+
+r/PHP
+:
+ Subreddit with the latest news in the PHP world. Share and discover the latest news about the PHP ecosystem and its community.
+
+r/Prolog
+:
+ Programming in Logic: Subreddit for content and discussion about Prolog, logic programming and related matters.
+
+r/Python
+:
+ The official Python community for Reddit! Stay up to date with the latest news, packages, and meta information relating to the Python programming language. If you have questions or are new to Python use 
+r/LearnPython
+.
+
+r/Ruby
+:
+ A subreddit to celebrate the weird and wonderful Ruby programming language!
+
+r/Scala
+:
+ This subreddit is dedicated to the multi-paradigm programming language that blends object-oriented (OOP) and functional programming (FP) features, designed to be concise, expressive, and scalable, running on the Java Virtual Machine (JVM) and known for building high-performance big data systems like Apache Spark, while also inter-operating seamlessly with Java.
+
+r/Scheme
+:
+ A community for discussing this minimalist, functional Lisp dialect known for conceptual elegance, teaching computer science fundamentals (like in SICP), and its use in building domain-specific languages, with posts covering code, tutorials, implementations, and general discussions on its simplicity and power. It's a place for both beginners learning functional programming and experienced developers exploring advanced concepts or new implementations like Scheme in WebAssembly.
+
+r/Smalltalk
+:
+ This subreddit revolves around Smalltalk: an object-oriented programming language.
+
+r/Tcl
+:
+ A subreddit on the Tcl programming language. Questions at any level of expertise are welcome.
+
+r/VisualBasic
+:
+ A subreddit to discuss, ask questions and share ideas regarding the VisualBasic programming languages.
+
+Other Programming-Related Subreddit Communities (APIs • Frameworks • Libraries • Editors)
+
+r/asp.net
+:
+ Subreddit dedicated to all things ASP.NET.
+
+r/cappuccino (objective-j)
+:
+ Cappuccino is an open-source application framework, not a programming language itself. It is used for building desktop-caliber web applications using the Objective-J programming language, which is a superset of JavaScript modeled on Objective-C. 
+
+r/django
+:
+ This is the primary subreddit for news, links, discussions, and content for developers using the Django framework.
+
+r/dotnet
+:
+ .NET Community, if you are using C#, VB.NET, F#, or anything running with .NET... you are at the right place!
+
+r/drupal
+:
+ The open-source digital experience platform. This subreddit is the face for news, articles, and discussion regarding Drupal and Backdrop, one of the top open-source (GPL) CMS platforms powering millions of websites and applications, built, used, and supported by a diverse community of people worldwide.
+
+r/emacs
+:
+ The official subreddit for the extensible, customizable, self-documenting real-time display editor.
+
+r/git
+:
+ This subreddit is home to Git, a version-controlling system that lets you keep track of every change made to codebase.
+
+r/haskell_proposals
+:
+ Subreddit to propose new Haskell projects among team members.
+
+r/jquery
+:
+ This subreddit delivers news, articles, plugins and tutorials for jQuery, the world's most popular JavaScript library! Covering jQuery Core, jQuery UI, jQuery Mobile, and other related projects.
+
+r/mercurial
+:
+ This subreddit is about all things Mercurial, a fast, lightweight Source Control Management System.
+
+r/opengl
+:
+ Open Graphics Library- a community for discussion, help, and news.
+
+r/rails
+:
+ A subreddit for discussion and news about Ruby on Rails.
+
+r/rubyonrails
+:
+ A subreddit for discussion and news about Ruby on Rails.
+
+r/udk
+:
+ This subreddit serves as a community hub for discussions about the Unreal Development Kit (UDK).
+
+r/unity3d
+:
+ The official and primary community for the Unity3d programming language used for scripting and the Unity engine itself, is C#.
+
+r/vim
+:
+ This is the primary subreddit dedicated to the Vim text editor. Here you can find content, tips, discussions, and support related to Vim configurations, usage, and the Vim script language.
+
+🪟 
+Microsoft Subreddit Communities
+
+r/Microsoft:
+
+r/windows
+:
+ 
+This is not a tech support subreddit, but is one of the largest unofficial communities for Microsoft Windows, the world's most popular desktop computer operating system.
+
+r/MicrosoftStore
+:
+ 
+A subreddit dedicated to Microsoft Store apps.
+
+♣️
+ 
+Microsoft Active Directory (AD) Subreddit Communities
+
+r/activedirectory:
+ 
+A community about Microsoft Active Directory, Entra ID, and other identity-related products and integrations. Posts about specific products should be short and sweet and not just glorified as.
+
+r/ADDS:
+ 
+Everything about Active Directory Domain Services (AD DS).
+
+r/adsec:
+ A subreddit for all things pertaining to Active Directory and Security.
+
+r/AzureActiveDirectory:
+ 
+Community to discuss Azure Active Directory - Users, Groups, App Registrations, and more.
+
+r/adfs:
+ 
+Everything about Active Directory Federation Services (AD FS).
+
+📧 Microsoft Exchange 
+SMTP Enterprise Email Subreddit Communities
+
+r/exchangeserver:
+ 
+Microsoft Exchange Server subreddit. Post blog posts you like, KB's you wrote or ask a question. Open forum for Exchange Administrators / Engineers / Architects and everyone to get along and ask questions.
+
+💻 Microsoft 
+Windows Desktop Family Communities
+
+r/Windows11
+:
+ This subreddit is one of the largest communities for Windows 11, Microsoft's latest computer operating system. This is also not a tech support subreddit.
+
+r/Wind
+ows10
+:
+ 
+This subreddit is one of the largest communities for Windows 10, Microsoft's latest computer operating system. This is also not a tech support subreddit.
+
+🧰 Microsoft Windows 
+Server Family Communities
+
+r/WindowsServer
+:
+ 
+This subreddit offers general advice on specific technical assistance on Microsoft Windows Server products from a community of experienced IT professionals.
+
+r/WindowsServer2019:
+ 
+Everything about Windows Server 2019 training, tutorials, and sharing knowledge.
+
+☠️ 
+Anti-Microsoft Everything Communities
+
+r/FuckMicrosoft
+:
+ 
+A subreddit that exposes the biggest corporate monopoly and its spyware machine.
+
+r/microsoftsucks
+:
+ If there is anything that sucks about Microsoft, Windows, or any of their products, share it in this subreddit, and let everyone know how awful they are.
+
+r/deMicrosoft
+:
+ 
+Expel Microsoft from your life. You deserve to live a private, self-sufficient and independent life. Don't let anyone take that from you.
+
+r/ObsoleteMicrosoft
+:
+ 
+This subreddit celebrates Microsoft's past, leading up to the Microsoft of now.
+
+📝 Microsoft 
+Office Suites Subreddit Communities
+
+r/microsoftoffice
+:
+ A subreddit for Microsoft Office posts.
+
+r/MicrosoftOutlook
+:
+ 
+This subreddit is about everything Microsoft Outlook.
+
+r/AdminDroid:
+ AdminDroid is an all-in-one solution for Microsoft 365 management. It helps administrators manage and get insights into Microsoft 365 and Active Directry with ease. From automating daily tasks to monitoring activities, analyzing usage and adoption, and receiving near-real-time alerts, AdminDroid helps you to streamline and secure your entire hybrid environment effortlessly.
+
+r/microsoft365
+:
+ Microsoft 365 is an all-in-one modern workplace platform. They're here to grow and learn with you on everything from Windows AutoPilot to Robotic Process Automation.
+
+r/Office365
+:
+ This subreddit is a vast community of Microsoft Office 365 users that are working together to support the product and that of others.
+
+r/MicrosoftWord
+:
+ 
+Word up!
+
+r/MicrosoftSentinel
+
+r/MicrosoftAccess
+:
+ 
+This subreddit is to discuss and share information about Microsoft Access.
+
+r/MicrosoftExcel
+:
+ 
+This subreddit is a platform for Microsoft Excel.
+
+r/MicrosoftSurface
+:
+ This is a subreddit aimed for the Microsoft Surface crowd.
+
+r/MicrosoftPurview
+: 
+This subreddit provides everything you need to know about Microsoft Purview: news, resources, and a community of users ready to answer questions.
+
+r/MicrosoftEdge
+:
+ This subreddit is making the web better through more open-source collaboration.
+
+r/MicrosoftSecurity
+:
+ This community is here to help professionals explore the Microsoft Security landscape and its offerings. This is a place to share tips, tricks, advice, and ask questions.
+
+r/Surface
+:
+ A subreddit for the Microsoft Surface family of products. Original by design.
+
+r/windowsazure
+:
+ A subreddit dedicated to all things on the Azure platform.
+
+r/MSSQL
+:
+ A subreddit that has anything and everything to do with Microsoft SQL Server aka MSSQL.
+
+r/msp
+:
+ A subreddit with resources for IT Managed Services Providers.
+
+r/SQLServer
+:
+ A subreddit that has everything you need to know about SQL Server: news, resources, and a community of users ready to answer questions.
+
+r/CayosoftGuardian:
+ 
+Near-real-time identity monitoring, threat detection, and hybrid visibility across Active Directory, Entra ID, Microsoft 365, and Intune. A space for IT pros, security teams, and sysadmins to: Share hybrid identity security best practices; Discuss real-world threats and defense strategies; Explore Cayosoft Guardian Protector (always free) in-action security, visibility, and protection. No sales pitch, no drama.
+
+r/SCCM:
+ All things System Center Configuration Manager.
+
+❤️ Miscellaneous Cybersecurity Subreddit Communities
+
+r/crowdstrike:
+ 
+The CrowdStrike subreddit. Falcon offers cloud-delivered solutions across endpoints, cloud workloads, identity and data; providing responders remote visibility across the enterprise and enabling instant access to the "who, what, when, where, and how" of a cyber attack.
+
+r/fortinet:
+ 
+Discussing all things Fortinet.
+
+r/computertechs:
+ This is a place where computer technicians can come together to share info on the latest tips and tricks for computer/network repair. They can also share their tools of the trade and computer repair methods. This is not a forum for technical support.
+
+r/vmware:
+ A community dedicated to discussion of VMware products and services.
+
+r/oscp:
+ A place for people to swap war stories, engage in discussion, build a community, prepare for the course and exam, share tips, ask for help.
+
+r/tryhackme:
+ Level up your cyber security skills with hands-on hacking challenges, guided learning paths, and a supportive community of over 5.5 million users.
+
+r/hackthebox:
+ Discussions about 
+hackthebox.com
+ machines.
+
+r/k12sysadmin:
+ K12sysadmin is for K12 techs. K12sysadmin is open to view and closed to post. K12TechPro (
+k12techpro.com
+) is helping as moderators and taking on the vetting/verification process. To add content, your account must be vetted/verified. If you want to post and aren't approved yet, click on a post, click "Request to Comment" and then you'll receive a form. If you are already an approved poster and want to join the K12TechPro Community too, then head over to 
+members.k12techpro.com
+
+r/Adobe:
+ A subreddit to discuss the Adobe security and home-automation system, as well as their compatible systems and components.
+
+r/Malware
+:
+ Malware analysis, reverse engineering, and threat research discussions.
+
+Pro Tip
+: Join the 
+Discord servers
+ linked in many of these subreddits' sidebars for real-time discussions and faster help with specific security questions!
