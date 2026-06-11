@@ -2,10 +2,14 @@ sentence-transformers==3.4.1
 chromadb>=0.6.0
 groq==0.15.0
 python-dotenv==1.0.1
+# gradio>=6.9.0 requires Python >=3.10. This venv is Python 3.9, so the max
+# installable is 4.44.1 (the UI code works identically on both). To use 6.9+,
+# recreate the venv with Python 3.10+ and change this line to gradio>=6.9.0.
+gradio==4.44.1
 
-# Query interface — add whichever you use for Milestone 5:
-# gradio>=6.9.0
-# streamlit>=1.40.0
+# Document ingestion (used by ingest.py / chunk.py):
+beautifulsoup4>=4.12
+tiktoken>=0.5
 
 # Document ingestion — add if your documents/ folder contains .pdf files:
 # pdfplumber==0.11.4

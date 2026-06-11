@@ -1,5 +1,5 @@
 """
-chunk.py — Stage 2 of the RAG pipeline: Chunking.
+chunking.py — Stage 2 of the RAG pipeline: Chunking.
 
 Reads the .txt files in raw_docs/ (produced by ingest.py) and splits them
 into retrieval-sized chunks:
@@ -11,7 +11,10 @@ into retrieval-sized chunks:
 Token counting uses tiktoken (cl100k_base) so sizes are accurate, not
 word-count approximations. Output is written to chunks.json.
 
-Run with:  python chunk.py   (after running ingest.py)
+Run with:  python chunking.py   (after running ingest.py)
+NOTE: named chunking.py (not chunk.py) on purpose — a module named chunk.py
+shadows Python's stdlib `chunk` module, which gradio imports indirectly via
+pydub/wave, breaking app.py. Don't rename it back to chunk.py.
 Libraries:  tiktoken, json, os, re   (no LangChain / no chunking library)
 """
 
