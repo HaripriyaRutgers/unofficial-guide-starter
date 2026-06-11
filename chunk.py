@@ -134,6 +134,81 @@ def make_chunk(chunk_id, source, ctype, text):
     }
 
 
+# Minimum tokens for a standalone GitHub chunk. Anything smaller is a list
+# fragment that retrieves poorly, so we merge it into a neighbor instead.
+GITHUB_MIN_TOKENS = 100
+
+
+def merge_small_chunks(pieces, min_tokens=GITHUB_MIN_TOKENS):
+    """Merge any chunk under `min_tokens` into an adjacent chunk.
+
+    Used for GitHub list pages, where the sliding window can leave short
+    trailing fragments. We merge FORWARD: a too-small chunk is buffered and
+    glued onto the next one. A too-small FINAL fragment (no next chunk) folds
+    back into the previous chunk so no text is ever dropped.
+    """
+    if not pieces:
+        return pieces
+    merged = []
+    buffer = ""  # accumulates text that's still below the threshold.
+    for piece in pieces:
+        # Glue the pending buffer onto the current piece (forward merge).
+        candidate = (buffer + "\n\n" + piece).strip() if buffer else piece
+        if count_tokens(candidate) < min_tokens:
+            buffer = candidate  # still too small — keep accumulating.
+        else:
+            merged.append(candidate)
+            buffer = ""
+    # Leftover undersized tail: fold into the previous chunk if one exists.
+    if buffer:
+        if merged:
+            merged[-1] = (merged[-1] + "\n\n" + buffer).strip()
+        else:
+            merged.append(buffer)  # entire doc was tiny — keep it anyway.
+    return merged
+
+
+def split_themuse_roles(text):
+    """Split a TheMuse 'jobs for CS majors' article into one chunk per role.
+
+    Each role is a title line ("UX Researcher") immediately followed by an
+    "Average salary" line. The default sliding window straddles role
+    boundaries — e.g. it glued the tail of UX Researcher onto the full
+    Product Manager + Data Scientist + Web Developer entries, diluting the
+    semantic signal so a UX query couldn't match. Here we cut a fresh chunk at
+    every role title so each chunk describes exactly ONE role.
+
+    Returns a list of role segments, or None if the "Average salary" layout
+    isn't found (so the caller can fall back to the normal sliding window).
+    """
+    lines = text.split("\n")
+    # Boundary = the title line directly before each "Average salary" line.
+    boundaries = []
+    for i, line in enumerate(lines):
+        if line.strip().lower().startswith("average salary"):
+            j = i - 1
+            while j >= 0 and not lines[j].strip():  # skip blank lines upward.
+                j -= 1
+            if j >= 0:
+                boundaries.append(j)
+    if not boundaries:
+        return None  # not the expected layout — let the caller fall back.
+
+    segments = []
+    # Intro text before the first role becomes its own segment.
+    if boundaries[0] > 0:
+        pre = "\n".join(lines[:boundaries[0]]).strip()
+        if pre:
+            segments.append(pre)
+    # Each role spans from its title line up to the next role's title line.
+    for idx, start in enumerate(boundaries):
+        end = boundaries[idx + 1] if idx + 1 < len(boundaries) else len(lines)
+        seg = "\n".join(lines[start:end]).strip()
+        if seg:
+            segments.append(seg)
+    return segments
+
+
 def process_file(stem, raw):
     """Turn one raw_docs file into a list of chunk dicts.
 
@@ -148,10 +223,32 @@ def process_file(stem, raw):
     idx = 0  # running per-source chunk index for chunk_id.
 
     if ctype == "article":
-        # No pre-segmentation: slide a window over the entire cleaned document.
-        for piece in chunk_text(raw):
-            chunks.append(make_chunk(f"{stem}_{idx}", source, ctype, piece))
-            idx += 1
+        # TheMuse: split on role boundaries so one chunk == one job role.
+        role_segs = split_themuse_roles(raw) if source == "themuse.com" else None
+        if role_segs is not None:
+            for seg in role_segs:
+                # One chunk per role; only window a role that exceeds the max.
+                if count_tokens(seg) <= TARGET_MAX:
+                    chunks.append(make_chunk(f"{stem}_{idx}", source, ctype, seg))
+                    idx += 1
+                else:
+                    for piece in chunk_text(seg):
+                        chunks.append(make_chunk(f"{stem}_{idx}", source, ctype, piece))
+                        idx += 1
+        else:
+            # Default: slide a window over the entire cleaned document.
+            pieces = chunk_text(raw)
+            # GitHub sources: merge sub-100-token fragments before emitting.
+            if source == "github.com":
+                before = len(pieces)
+                pieces = merge_small_chunks(pieces)
+                # Show the before/after specifically for awesome_cybersecurity.
+                if stem == "awesome_cybersecurity":
+                    print(f"  [{stem}] chunks before merge: {before} "
+                          f"-> after merge: {len(pieces)}")
+            for piece in pieces:
+                chunks.append(make_chunk(f"{stem}_{idx}", source, ctype, piece))
+                idx += 1
     else:
         # Forum / career-map: ingest.py already segmented this into units.
         for meta, body in split_units(raw):

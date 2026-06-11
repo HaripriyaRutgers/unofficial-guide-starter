@@ -160,6 +160,38 @@ def extract_article(soup):
     return clean_text(container.get_text(separator="\n"))
 
 
+def clean_github(text):
+    """Extra cleaning for GitHub 'awesome list' README pages.
+
+    These pages are full of emoji section markers (❇️ 🥷 🛡️), smart symbols,
+    and bare one-word category headings. The emoji/symbols sit flush against
+    words ("...prem❇️thats...") and break mid-word when chunked, and the lone
+    headings add noise. So for GitHub sources only we:
+      1. strip every non-ASCII char (emoji + special symbols) to a space,
+      2. drop lines that are only 1-3 words (bare section headers),
+      3. drop lines with no letters/digits (pure bullets/symbols/whitespace).
+    """
+    # 1) Replace any run of non-ASCII bytes with a single space.
+    text = re.sub(r"[^\x00-\x7F]+", " ", text)
+
+    kept = []
+    for line in text.split("\n"):
+        line = line.strip()
+        if not line:
+            continue
+        # 3) Skip lines that contain no alphanumeric content at all
+        #    (e.g. "---", "•", leftover "<div>" fragments became symbols).
+        if not re.search(r"[A-Za-z0-9]", line):
+            continue
+        # 2) Skip bare section headers: 1-3 "words" carry no real content.
+        if len(line.split()) <= 3:
+            continue
+        kept.append(line)
+
+    # Re-join and run the normal whitespace normalizer over the result.
+    return clean_text("\n".join(kept))
+
+
 def extract_forum(soup, source_name):
     """Extract individual posts/replies as separate labeled text units.
 
@@ -291,6 +323,9 @@ def main():
             content = "\n\n----\n\n".join(units)
         else:  # article
             content = extract_article(soup)
+            # GitHub READMEs need extra emoji/symbol/header stripping.
+            if "github.com" in url:
+                content = clean_github(content)
 
         # If extraction produced nothing useful, warn and skip writing an empty file.
         if not content or len(content.strip()) < 50:
